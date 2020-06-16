@@ -40,7 +40,6 @@ export default function SignUp({ navigation }) {
         <Form>
           <FormInput
             icon="person-outline"
-            keyboardType="email-address"
             autoCorrect={false}
             autoCapitalize="none"
             placeholder="Nome completo"
